@@ -1,0 +1,19 @@
+.odd {
+    background-color: #ffa6a7;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.cooler-class {
+    font-size: 24px;
+}
+
+#random-id-1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#random-id-2 {
+    background-color: #80ff81;
+    font-weight: bold;
+}
+
